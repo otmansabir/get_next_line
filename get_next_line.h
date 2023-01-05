@@ -27,7 +27,5 @@ void			ft_memset(void *b, int c, size_t len);
 char			*ft_substr(char const *s, unsigned int start, size_t len);
 char			*ft_strchr(const char *s, int c);
 size_t			ft_strlen(const char *s);
-// void			*ft_calloc(size_t count, size_t size);
-// void			*ft_memset(void *b, int c, size_t len);
 
 #endif
