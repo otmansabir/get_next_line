@@ -148,7 +148,3 @@ Use `get_next_line_bonus.c/.h` and corresponding utils for this behavior.
 ## Author
 
 - otmansabir — https://github.com/otmansabir
-
-## License
-
-No license file is present in this repository at the time of writing.
